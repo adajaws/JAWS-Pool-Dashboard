@@ -24,6 +24,4 @@ The original dashboard has been made by the Umed Saidov (Operator of the [SKY] P
 
 ### Download the JAWSX Dashboard below
 
-You can download the JAWSX Dashboard below 
-
-[JAWSX Dashboard](https://github.com/adajaws/JAWS-Pool-Dashboard/blob/master/src/JAWS-dashboard.json)
+You can download the JAWSX Dashboard here: [JAWSX Dashboard](https://github.com/adajaws/JAWS-Pool-Dashboard/blob/master/src/JAWS-dashboard.json)
