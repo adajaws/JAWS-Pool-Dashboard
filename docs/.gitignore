@@ -1,0 +1,3 @@
+#ignore jpg and png
+*.jpg
+*.png
