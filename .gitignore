@@ -2,5 +2,5 @@
 *.png
 *.jpg
 
-# ignore docs/ irectory
+# ignore docs/ directory
 docs/
