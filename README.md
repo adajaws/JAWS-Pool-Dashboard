@@ -17,7 +17,7 @@ The original dashboard has been made by the Umed Saidov (Operator of the [SKY] P
 
 ### See screenshot of **JAWSX** Dashboard below
 
-![JAWSX Dashboard #01](https://github.com/adajaws/JAWSX-Pool-Dashboard/raw/master/JAWSX_dashboard_01.jpg)
-![JAWSX Dashboard #02](https://github.com/adajaws/JAWSX-Pool-Dashboard/raw/master/JAWSX_dashboard_02.jpg)
-![JAWSX Dashboard #03](https://github.com/adajaws/JAWSX-Pool-Dashboard/raw/master/JAWSX_dashboard_03.jpg)
-![JAWSX Dashboard #04](https://github.com/adajaws/JAWSX-Pool-Dashboard/raw/master/JAWSX_dashboard_04.jpg)
+![JAWSX Dashboard #01](https://github.com/adajaws/JAWSX-Pool-Dashboard/raw/master/docs/JAWSX_dashboard_01.jpg)
+![JAWSX Dashboard #02](https://github.com/adajaws/JAWSX-Pool-Dashboard/raw/master/docs/JAWSX_dashboard_02.jpg)
+![JAWSX Dashboard #03](https://github.com/adajaws/JAWSX-Pool-Dashboard/raw/master/docs/JAWSX_dashboard_03.jpg)
+![JAWSX Dashboard #04](https://github.com/adajaws/JAWSX-Pool-Dashboard/raw/master/docs/JAWSX_dashboard_04.jpg)
