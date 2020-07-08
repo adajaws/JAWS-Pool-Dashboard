@@ -1,6 +1,8 @@
 ### JAWS and JAWSX pool Grafana -dashboard for Cardano blockchain pool operators
 
-This is the Grafana dashboard setup we are using at our pools **JAWS** & **JAWSX** for getting most information from both Core's and Relays.
+This is the Grafana dashboard setup we are using at our pools **JAWS** & **JAWSX** for getting most**  information from both Core's and Relays.
+
+The dashboard has been crafted with **sisu** and passion for the whole Cardano ecosystem.
 
 The original dashboard has been made by the Umed Saidov (Operator of the [SKY] Pool)
 
@@ -25,3 +27,5 @@ The original dashboard has been made by the Umed Saidov (Operator of the [SKY] P
 ### Download the JAWSX Dashboard below
 
 You can download the JAWSX Dashboard here: [JAWSX Dashboard](https://github.com/adajaws/JAWS-Pool-Dashboard/blob/master/src/JAWS-dashboard.json)
+
+If you modify it, please support the Cardano ecosystem by sharing your work.
