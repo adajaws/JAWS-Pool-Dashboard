@@ -1,0 +1,5 @@
+# ignore all files starting with . or ~
+*.png
+
+# ignore docs/ irectory
+docs/
