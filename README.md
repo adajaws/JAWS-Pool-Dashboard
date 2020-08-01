@@ -15,7 +15,7 @@ The original dashboard has been made by the Umed Saidov (Operator of the [SKY] P
 
 3. Most easiest if running your instances in VM or docker is to use the internal IP- addresses at the grafana source setup.
 
-4. Feel free to ask more help at Telegram or at our channel at https://t.me/adajawspool
+4. Feel free to ask more help at Telegram via PM
 
 ### See screenshot of JAWSX Dashboard below
 
