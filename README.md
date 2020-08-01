@@ -13,7 +13,7 @@ The original dashboard has been made by the Umed Saidov (Operator of the [SKY] P
 
 2. Also create the data sources into the grafana setup to fetch every VM / container data into the grafana.
 
-3. Most easiest if running your instances in VM or docker is to use the internal IP- addresses at the grafana source setup.
+3. Most easiest if running your instances in barebone, VM or docker is to use the internal IP- addresses at the grafana source setup.
 
 4. Feel free to ask more help at Telegram via PM
 
