@@ -1,6 +1,6 @@
 ### JAWS pool Grafana -dashboard for Cardano blockchain pool operators
 
-This is the Grafana dashboard setup we are using at our pools **JAWS** *for getting most**  information from both Core's and Relays.
+This is the Grafana dashboard setup we are using at our pools **JAWS** *for getting most*  information from both Core's and Relays.
 
 The dashboard has been crafted with **sisu** and passion for the whole Cardano ecosystem.
 
