@@ -6,7 +6,7 @@ The dashboard has been crafted with **sisu** and passion for the whole Cardano e
 
 The original dashboard has been made by the Umed Saidov (Operator of the [SKY] Pool)
 
-1. For setting this up you need to create individual instances on your VM's or docker / container instances 
+1. For setting this up you need to create individual instances on your barebone setup, VM's or docker / container instances 
    in order to get data from core/relay's into the actual server, where you run your grafana.
 
    To do so install node_exporter and prometheus.
